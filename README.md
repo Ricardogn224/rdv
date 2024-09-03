@@ -28,6 +28,7 @@ docker compose exec php bin/console make:migration
 docker compose exec php bin/console d:m:m
 
 Accéder au projet sur l'url localhost:8888
+
 Vérifier si l'accès à localhost:8888/api/docs
 
 
